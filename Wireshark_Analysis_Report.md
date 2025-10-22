@@ -27,8 +27,8 @@ Each section below includes a short explanation and a link to the actual packet 
 * Understood how the client initiates the session and the server responds.
 * Learned how to identify TCP flags in Wireshark for connection establishment and teardown.
 
-[View Screenshot]([./images/tcp.png](https://github.com/Godliveth/Wireshark-Network-Analysis/blob/main/tcp.png))
-[View Screenshot]([./images/TCP_flags.png](https://github.com/Godliveth/Wireshark-Network-Analysis/blob/main/TCP%20flags.png))
+[View Screenshot](https://github.com/Godliveth/Wireshark-Network-Analysis/blob/main/tcp.png)
+[View Screenshot](https://github.com/Godliveth/Wireshark-Network-Analysis/blob/main/TCP%20flags.png)
 
 ---
 
@@ -39,6 +39,7 @@ Each section below includes a short explanation and a link to the actual packet 
 * Learned how SOC analysts use this to detect scanning or probing attempts.
 
 [View Screenshot](https://github.com/Godliveth/Wireshark-Network-Analysis/blob/main/Failed%20and%20Refused%20%20tcp%20Flags.png)
+
 [View Screenshot](https://github.com/Godliveth/Wireshark-Network-Analysis/blob/main/Tcp.Flag%20RST.png)
 
 ---
@@ -70,7 +71,9 @@ Each section below includes a short explanation and a link to the actual packet 
 * Understood how analysts trace suspicious HTTP sessions in logs.
 
 [View Screenshot](https://github.com/Godliveth/Wireshark-Network-Analysis/blob/main/get%20http.png)
+
 [View Screenshot](https://github.com/Godliveth/Wireshark-Network-Analysis/blob/main/User_Agent.png)
+
 [View Screenshot](https://github.com/Godliveth/Wireshark-Network-Analysis/blob/main/http.png)
 
 ---
