@@ -50,7 +50,7 @@ The detailed SOC-style documentation with screenshots and insights can be found 
 ## 💼 Author
 **Godliveth Madu**  
 _SOC Analyst Trainee_  
-🔗 [LinkedIn](https://www.linkedin.com/) 
+🔗 [LinkedIn](in/godliveth-madu-1771b6251/) 
 
 ---
 
