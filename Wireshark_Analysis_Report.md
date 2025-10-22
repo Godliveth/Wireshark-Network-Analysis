@@ -17,7 +17,7 @@ Each section below includes a short explanation and a link to the actual packet 
 * Learned how ICMP works at the network layer for testing reachability.
 * Key takeaway: The **Request (Type 8)** and **Reply (Type 0)** messages confirm bidirectional communication.
 
-[View Screenshot](./images/Icmp_test.png) 
+[View Screenshot](https://github.com/Godliveth/Wireshark-Network-Analysis/blob/main/Icmp%20test.png) 
 
 ---
 
