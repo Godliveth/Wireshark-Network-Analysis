@@ -1,4 +1,4 @@
-.## Wireshark Network Traffic Analysis Report
+## Wireshark Network Traffic Analysis Report
 ---
 
 ## 📘 Overview
@@ -27,8 +27,8 @@ Each section below includes a short explanation and a link to the actual packet 
 * Understood how the client initiates the session and the server responds.
 * Learned how to identify TCP flags in Wireshark for connection establishment and teardown.
 
-[View Screenshot](./images/tcp.png)
-[View Screenshot](./images/TCP_flags.png)
+[View Screenshot]([./images/tcp.png](https://github.com/Godliveth/Wireshark-Network-Analysis/blob/main/tcp.png))
+[View Screenshot]([./images/TCP_flags.png](https://github.com/Godliveth/Wireshark-Network-Analysis/blob/main/TCP%20flags.png))
 
 ---
 
@@ -38,8 +38,8 @@ Each section below includes a short explanation and a link to the actual packet 
 * Understood that RST indicates the connection request was refused.
 * Learned how SOC analysts use this to detect scanning or probing attempts.
 
-[View Screenshot](./images/Failed_and_Refused_TCP_Flags.png)
-[View Screenshot](./images/Tcp_Flag_RST.png)
+[View Screenshot](https://github.com/Godliveth/Wireshark-Network-Analysis/blob/main/Failed%20and%20Refused%20%20tcp%20Flags.png)
+[View Screenshot](https://github.com/Godliveth/Wireshark-Network-Analysis/blob/main/Tcp.Flag%20RST.png)
 
 ---
 
@@ -49,7 +49,7 @@ Each section below includes a short explanation and a link to the actual packet 
 * Learned that UDP lacks a handshake and reliability mechanism.
 * Compared UDP behavior against TCP for SOC monitoring.
 
-[View Screenshot](./images/udp.png)
+[View Screenshot](https://github.com/Godliveth/Wireshark-Network-Analysis/blob/main/udp.png)
 
 ---
 
@@ -59,7 +59,7 @@ Each section below includes a short explanation and a link to the actual packet 
 * Observed packet fields: Query Name, Response IP, and Query Type (A record).
 * Understood how DNS can be used or abused in tunneling or exfiltration.
 
-[View Screenshot](./images/dns.png)
+[View Screenshot](https://github.com/Godliveth/Wireshark-Network-Analysis/blob/main/dns.png)
 
 ---
 
@@ -69,9 +69,9 @@ Each section below includes a short explanation and a link to the actual packet 
 * Examined **HTTP headers**, including Host, User-Agent, and Methods.
 * Understood how analysts trace suspicious HTTP sessions in logs.
 
-[View Screenshot](./images/http.png)
-[View Screenshot](./images/get_http.png)
-[View Screenshot](./images/User_Agent.png)
+[View Screenshot](https://github.com/Godliveth/Wireshark-Network-Analysis/blob/main/get%20http.png)
+[View Screenshot](https://github.com/Godliveth/Wireshark-Network-Analysis/blob/main/User_Agent.png)
+[View Screenshot](https://github.com/Godliveth/Wireshark-Network-Analysis/blob/main/http.png)
 
 ---
 
@@ -80,7 +80,7 @@ Each section below includes a short explanation and a link to the actual packet 
 * Observed ARP Requests and Replies to understand MAC address resolution.
 * Learned how ARP poisoning attacks can be detected by irregular ARP broadcasts.
 
-[View Screenshot](./images/ARP.png)
+[View Screenshot](https://github.com/Godliveth/Wireshark-Network-Analysis/blob/main/ARP.png)
 
 ---
 
@@ -90,7 +90,7 @@ Each section below includes a short explanation and a link to the actual packet 
 * Observed how SYN packets appear in Wireshark and correlate to open ports.
 * Connected this to SOC detection use cases like port scan detection.
 
-[View Screenshot](./images/sudo_nmap.png)
+[View Screenshot](https://github.com/Godliveth/Wireshark-Network-Analysis/blob/main/sudo%20nmap.png)
 
 ---
 
@@ -123,7 +123,7 @@ This exercise strengthened my foundational skills in **network traffic analysis*
 
 ---
 
-📸 All screenshots are stored in the `/images` folder.
+📸 All screenshots are stored in the `/images` files.
 ➡️ To view them directly, click on any **[View Screenshot]** link above.
 
 
