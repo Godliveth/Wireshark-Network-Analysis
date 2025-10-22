@@ -28,6 +28,7 @@ Each section below includes a short explanation and a link to the actual packet 
 * Learned how to identify TCP flags in Wireshark for connection establishment and teardown.
 
 [View Screenshot](https://github.com/Godliveth/Wireshark-Network-Analysis/blob/main/tcp.png)
+
 [View Screenshot](https://github.com/Godliveth/Wireshark-Network-Analysis/blob/main/TCP%20flags.png)
 
 ---
